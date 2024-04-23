@@ -10,6 +10,7 @@ Ivan Garcia 2O 23310124 Tigre
 Estefania Ferrer 2O 23310147 Panda
 Cristopher Ceja 2O 23310108 Pingüino
 Brayan Vazquez 20 23310112 Padalustro
+Damian Almado 2O 23310101 Araña 
 
 
 
