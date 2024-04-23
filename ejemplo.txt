@@ -4,7 +4,7 @@ Osvaldo Garibay 2O 23310130 Tardigrado
 Ian Yañez 2O 23310131 Mapache
 Devin Alonso 2O 23310138 Camaleon
 Samuel Dominguez 2O 23310136 Ajolóte
-Sergio Daniel Santana Nuñez 23310126 Aguila
+Sergio Daniel Santana Nuñez 23310126 Aguila12
 Victor Manuel Navarro 2O 9300954 Águila
 Angel Hernandez 2O 233101023 Gato
 Osvaldo Garibay 2O 23310130 Tardigrado
@@ -17,21 +17,6 @@ Ivan Garcia 2O 23310124 Tigre
 Estefania Ferrer 2O 23310147 Panda
 Cristopher Ceja 2O 23310108 Pingüino
 Brayan Vazquez 20 23310112 Padalustro
-Damian Almado 2O 23310101 Araña 
-
-
-
-
-
-
-
-
-
+Damian Almado 2O 23310101 Araña
 Natalia Orozco 2O 23310208 Caballo
-
-
-
-
-
 Alberto Morones 20 23310119 Leon
->>>>>>> cfed389658bbcb361b2d8a01ae78c400e1e39c01
