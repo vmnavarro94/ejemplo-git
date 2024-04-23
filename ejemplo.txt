@@ -1,5 +1,4 @@
 Victor Navarro 2O 9300954 Águila
-<<<<<<< HEAD
 Angel Hernandez 2O 233101023 Gato
 Osvaldo Garibay 2O 23310130 Tardigrado
 Ian Yañez 2O 23310131 Mapache
@@ -22,7 +21,7 @@ Brayan Vazquez 20 23310112 Padalustro
 Damian Almado 2O 23310101 Araña
 Alberto Morones 20 23310119 Leon
 Angel Leonardo 2O 23310142 Chinchilla
-
+Christian Arturo Flores Diaz 23310185 el vena'o
 
 
 
