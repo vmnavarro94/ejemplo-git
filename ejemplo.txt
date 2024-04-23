@@ -5,6 +5,7 @@ Ian Yañez 2O 23310131 Mapache
 <<<<<<< HEAD
 Osvaldo Garibay 2O 23310130 Tardigrado
 Daniel Sánchez 2O Chihuahua 23310411
+No me deja subir el archivo arriba el atlas
 =======
 Devin Alonso 2O 23310138 Camaleon
 
