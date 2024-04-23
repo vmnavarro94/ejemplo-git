@@ -3,9 +3,8 @@ Angel Hernandez 2O 233101023 Gato
 Osvaldo Garibay 2O 23310130 Tardigrado
 Ian Yañez 2O 23310131 Mapache
 Osvaldo Garibay 2O 23310130 Tardigrado
-Daniel Sánchez 2O Chihuahua 23310411
-No me deja subir el archivo arriba el atlas
+Daniel Sánchez 2O 23310411 Chihuahua
 Devin Alonso 2O 23310138 Camaleon
 Samuel Dominguez 2O 23310136 Ajolóte
 Ivan Garcia 2O 23310124 Tigre
-Estefania Ferrer 2O 23310147 Panda>>>>>>> 5c00c6f8fbcba76229d895972babb4d256ee0a75
+Estefania Ferrer 2O 23310147 Panda
