@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Victor Navarro 2O 9300954 Águila
 Angel Hernandez 2O 233101023 Gato
 Osvaldo Garibay 2O 23310130 Tardigrado
@@ -10,3 +11,34 @@ Sebastian Gonzalez 2O 23310140 Tigre
 =======
 Estefania Ferrer 2O 23310147 Panda
 >>>>>>> a1d6304fc78cfa46cbd9b7223692e11bd11c4d15
+=======
+Victor Manuel Navarro 2O 9300954 Águila
+Angel Hernandez 2O 233101023 Gato
+Osvaldo Garibay 2O 23310130 Tardigrado
+Ian Yañez 2O 23310131 Mapache
+Osvaldo Garibay 2O 23310130 Tardigrado
+Daniel Sánchez 2O 23310411 Chihuahua
+Devin Alonso 2O 23310138 Camaleon
+Samuel Dominguez 2O 23310136 Ajolóte
+Ivan Garcia 2O 23310124 Tigre
+Estefania Ferrer 2O 23310147 Panda
+Cristopher Ceja 2O 23310108 Pingüino
+Brayan Vazquez 20 23310112 Padalustro
+Damian Almado 2O 23310101 Araña 
+
+
+
+
+
+
+
+
+
+Natalia Orozco 2O 23310208 Caballo
+
+
+
+
+
+Alberto Morones 20 23310119 Leon
+>>>>>>> 491def6536e7ed23ba2f2cd81459c0ad2f32a93f
