@@ -36,6 +36,7 @@ Angel Leonardo 2O 23310142 Chinchilla
 
 
 
+
 <<<<<<< HEAD
 Alberto Morones 20 23310119 Leon
 
@@ -58,4 +59,27 @@ Emily Sandoval 2o 23310115 Foca
 
 
 
-Karol Benitez 2O 23310104
+Karol Benitez 2O 23310104 Capibara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mirna Benítez 2O 23310114 Oso
