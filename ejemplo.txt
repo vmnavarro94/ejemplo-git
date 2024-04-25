@@ -1,4 +1,4 @@
-Sebastian Gonzalez 2O 23310140 Tigre
+Sebastian Gonzalez 2O 23310140 Tigre Edad 20
 Victor Manuel Navarro 2O 9300954 Águila - Edad: 30
 Angel Hernandez 2O 233101023 Gato - edad 20
 Osvaldo Garibay 2O 23310130 Tardigrado - Edad: 20
@@ -22,3 +22,4 @@ Karol Benitez 2O 23310104 Capibara
 Mirna Benítez 2O 23310114 Oso
 Ambar Delgado 2O 23310103 Gato
 Jose Julian Antonio Padilla 2O 23310109 orca - edad : 18
+Christian Rosario 2O 23310134 Jaguar Edad 20
