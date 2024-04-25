@@ -1,15 +1,15 @@
 Sebastian Gonzalez 2O 23310140 Tigre
 Victor Manuel Navarro 2O 9300954 Águila - Edad: 30
-Angel Hernandez 2O 233101023 Gato
 Osvaldo Garibay 2O 23310130 Tardigrado - Edad: 20
+Angel Hernandez 2O 233101023 Gato - edad 20
 Ian Yañez 2O 23310131 Mapache
 Devin Alonso 2O 23310138 Camaleon
 Samuel Dominguez 2O 23310136 Ajolóte
 Sergio Daniel Santana Nuñez 23310126 Aguila
 Ivan Garcia 2O 23310124 Tigre
-Estefania Ferrer 2O 23310147 Panda
+Estefania Ferrer 2O 23310147 Panda - Edad: 23
 Cristopher Ceja 2O 23310108 Pingüino
-Brayan Vazquez 20 23310112 Padalustro
+Brayan Vazquez 20 23310112 27
 Damian Almado 2O 23310101 Araña
 Daniel Sánchez 2O 23310411 Chihuahua
 Natalia Orozco 2O 23310208 Caballo
@@ -21,3 +21,4 @@ Christian Arturo Flores Diaz 23310185 el vena'o
 Karol Benitez 2O 23310104 Capibara
 Mirna Benítez 2O 23310114 Oso
 Ambar Delgado 2O 23310103 Gato
+Jose Julian Antonio Padilla 2O 23310109 orca - edad : 18
