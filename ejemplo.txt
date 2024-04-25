@@ -1,14 +1,14 @@
-Sebastian Gonzalez 2O 23310140 Tigre
+Sebastian Gonzalez 2O 23310140 Tigre Edad 20
 Victor Manuel Navarro 2O 9300954 Águila - Edad: 30
-Osvaldo Garibay 2O 23310130 Tardigrado - Edad: 20
 Angel Hernandez 2O 233101023 Gato - edad 20
+Osvaldo Garibay 2O 23310130 Tardigrado - Edad: 20
 Ian Yañez 2O 23310131 Mapache
 Devin Alonso 2O 23310138 Camaleon
 Samuel Dominguez 2O 23310136 Ajolóte
 Sergio Daniel Santana Nuñez 23310126 Aguila
 Ivan Garcia 2O 23310124 Tigre
 Estefania Ferrer 2O 23310147 Panda - Edad: 23
-Cristopher Ceja 2O 23310108 Pingüino
+Cristopher Ceja 2O 23310108 Pingüino - Edad: 23
 Brayan Vazquez 20 23310112 27
 Damian Almado 2O 23310101 Araña
 Daniel Sánchez 2O 23310411 Chihuahua
@@ -21,5 +21,6 @@ Christian Flores 2O git status
  aaskl23310185 el vena'o Edad:20
 Karol Benitez 2O 23310104 Capibara
 Mirna Benítez 2O 23310114 Oso
-Ambar Delgado 2O 23310103 Gato
+Ambar Delgado 2O 23310103 Orca - Edad: 18
 Jose Julian Antonio Padilla 2O 23310109 orca - edad : 18
+Christian Rosario 2O 23310134 Jaguar Edad 20
