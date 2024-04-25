@@ -1,7 +1,7 @@
 Sebastian Gonzalez 2O 23310140 Tigre
 Victor Manuel Navarro 2O 9300954 Águila - Edad: 30
 Angel Hernandez 2O 233101023 Gato
-Osvaldo Garibay 2O 23310130 Tardigrado
+Osvaldo Garibay 2O 23310130 Tardigrado - Edad: 20
 Ian Yañez 2O 23310131 Mapache
 Devin Alonso 2O 23310138 Camaleon
 Samuel Dominguez 2O 23310136 Ajolóte
