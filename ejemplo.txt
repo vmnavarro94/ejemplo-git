@@ -15,7 +15,7 @@ Daniel Sánchez 2O 23310411 Chihuahua
 Natalia Orozco 2O 23310208 Caballo
 Alberto Morones 20 23310119 Leon - Edad: 18
 Angel Leonardo 2O 23310142 Chinchilla
-Samantha Preciado 20 23310123 Pez
+Samantha Preciado 20 23310123 Pez---Edad: 23 
 Emily Sandoval 2o 23310115 Foca
 Christian Arturo Flores Diaz 23310185 el vena'o
 Karol Benitez 2O 23310104 Capibara
